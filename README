@@ -1,4 +1,3 @@
-l@moon:~/github$ tree
 .
 ├── Bashexp
 │   ├── batch.py
@@ -10,6 +9,9 @@ l@moon:~/github$ tree
 │   └── burpsuite_pro_v1.6.09.jar
 ├── Chrome插件
 │   └── HackingBox.zip
+├── git.sh
+├── PayLoad
+│   └── Burpsuite-PayLoad.zip
 ├── README
 ├── Struts2Exp
 │   └── Struts2Exp.jar
@@ -17,6 +19,8 @@ l@moon:~/github$ tree
 │   └── xss平台SAE版.zip
 ├── 基础知识
 │   └── Nmap速查手册 _ WooYun知识库.pdf
+├── 实用脚本
+│   └── against.py
 └── 字典
     ├── ashdict64
     ├── 弱口令
@@ -35,3 +39,4 @@ l@moon:~/github$ tree
     │   └── 6位数字.txt
     └── 姓名简写
         └── name.dic
+
