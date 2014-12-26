@@ -1,27 +1,35 @@
 .
-├── ashdict64 骨灰字典生成器linux版
-├── Bashexp Bash漏洞exp
-│   ├── batch.py
-│   ├── exp.py
-│   └── target.txt
-├── burpsuite 攻击web 应用程序的集成平台
-│   ├── BurpLoader.jar
-│   ├── Burp_MultiProxy.jar
-│   └── burpsuite_pro_v1.6.09.jar
-├── HackingBox.zip Chrome使用插件
-└── Struts2Exp.jar struts2漏洞监测利用工具
 ├── Bashexp
 │   ├── batch.py
 │   ├── exp.py
 │   └── target.txt
-├── burpsuite
+├── BurpSuite
 │   ├── BurpLoader.jar
 │   ├── Burp_MultiProxy.jar
 │   └── burpsuite_pro_v1.6.09.jar
 ├── Chrome插件
 │   └── HackingBox.zip
 ├── README
-├── Struts2Exp.jar
-├── xss平台SAE版.zip
+├── Struts2Exp
+│   └── Struts2Exp.jar
+├── XSS
+│   └── xss平台SAE版.zip
+├── 基础知识
 └── 字典
-    └── ashdict64
+    ├── ashdict64
+    ├── 弱口令
+    ├── 身份证后六位
+    │   ├── BOY.dic
+    │   └── GIRL.dic
+    ├── 生日
+    │   ├── 6位年月日.txt
+    │   └── 8位年月日.txt
+    ├── 数字
+    │   ├── 1位数字.txt
+    │   ├── 2位数字.txt
+    │   ├── 3位数字.txt
+    │   ├── 4位数字.txt
+    │   ├── 5位数字.txt
+    │   └── 6位数字.txt
+    └── 姓名简写
+        └── name.dic
